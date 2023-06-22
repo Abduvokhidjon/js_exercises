@@ -1,5 +1,5 @@
 // Assuming the function is called 'getHighestScoredObject'
-const getHighestScoredObject = require("./yourCodeFile"); // Import the function from your code file
+const getHighestScoredObject = require("./getHighestScoredObject"); // Import the function from your code file
 
 describe("getHighestScoredObject", () => {
     it("should return the object with the highest score", () => {

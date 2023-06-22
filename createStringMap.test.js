@@ -1,5 +1,5 @@
 // Import the function to be tested
-const createStringMap = require("./your-filename.js");
+const createStringMap = require("./getStringLengthMap");
 
 // Describe the test suite
 describe("createStringMap", () => {
